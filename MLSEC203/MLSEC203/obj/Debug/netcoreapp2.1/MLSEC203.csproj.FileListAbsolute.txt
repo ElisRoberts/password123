@@ -1,0 +1,15 @@
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\bin\Debug\netcoreapp2.1\MLSEC203.deps.json
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\bin\Debug\netcoreapp2.1\MLSEC203.runtimeconfig.json
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\bin\Debug\netcoreapp2.1\MLSEC203.runtimeconfig.dev.json
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\bin\Debug\netcoreapp2.1\MLSEC203.dll
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.RazorAssemblyInfo.cache
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.RazorAssemblyInfo.cs
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.AssemblyInfoInputs.cache
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.AssemblyInfo.cs
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\bin\Debug\netcoreapp2.1\MLSEC203.pdb
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.dll
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.pdb
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\bin\Debug\netcoreapp2.1\SEC203MLPassword.txt
+C:\Users\Daniel\Source\Repos\MLSEC203\MLSEC203\obj\Debug\netcoreapp2.1\MLSEC203.csprojAssemblyReference.cache
